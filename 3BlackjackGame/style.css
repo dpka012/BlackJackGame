@@ -1,0 +1,47 @@
+  body {
+    background-image: url("image.jpg" );
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(251, 197, 61) ;
+    text-align: center;
+    }
+  
+ .box{
+          width: 700px;
+          height: 715px;
+          margin: 0 auto;
+          background-image: url("image.jpg" );
+          background-size: cover;
+          border-radius: 8px;
+        }
+    
+  
+  h1 {
+    color:chocolate;
+    font-size: 33px;
+  }
+
+  p {
+    font-size: 21px;
+    } 
+  #message-el {
+    font-size: 25px;
+    color: rgb(255, 162, 12);
+    text-shadow: 0px 2px 2px black;
+    font-style: italic;
+  }
+  
+  button {
+    width: 215px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    border-radius: 6px;
+    background-color:chocolate ;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    
+  }
